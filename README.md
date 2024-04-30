@@ -1,5 +1,4 @@
 # PolarisationNumber
-Opinion Dynamics - Polarisation Number
 <!DOCTYPE html>
 <html>
 <head>
