@@ -3,7 +3,7 @@ Opinion Dynamics - Polarisation Number
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Agent Based Modeling Simulation for the article titled - Opinion Dynamics - Polarisation Number</title>
+    Agent Based Modeling Simulation for the article titled - Opinion Dynamics - Polarisation Number
 </head>
 <body>
     <h1>Simulation Results</h1>
